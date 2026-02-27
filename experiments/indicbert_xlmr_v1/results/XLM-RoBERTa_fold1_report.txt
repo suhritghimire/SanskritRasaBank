@@ -1,0 +1,20 @@
+XLM-RoBERTa — Fold 1
+Accuracy: 0.5826
+Weighted F1: 0.5910
+Macro F1: 0.5067
+
+              precision    recall  f1-score   support
+
+   Shringara       0.73      0.61      0.67       575
+       Hasya       0.14      0.25      0.18        63
+      Karuna       0.68      0.57      0.62       710
+      Raudra       0.67      0.43      0.52       707
+       Veera       0.69      0.69      0.69       764
+   Bhayanaka       0.30      0.51      0.38       131
+    Bibhatsa       0.31      0.55      0.40       110
+     Adbhuta       0.49      0.62      0.55       322
+      Shanta       0.40      0.90      0.56       111
+
+    accuracy                           0.58      3493
+   macro avg       0.49      0.57      0.51      3493
+weighted avg       0.63      0.58      0.59      3493

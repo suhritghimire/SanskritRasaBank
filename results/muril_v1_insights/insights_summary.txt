@@ -1,0 +1,62 @@
+============================================================
+NAVARASA INSIGHTS — MuRIL Analysis
+Ramayana & Rigveda Rasa Classification
+============================================================
+
+── RAMAYANA ──────────────────────────────────────────
+           count  percentage
+rasa_1                      
+Veera       6475       27.67
+Karuna      3948       16.87
+Shringara   2672       11.42
+Raudra      2999       12.82
+Adbhuta     3159       13.50
+Bhayanaka   1105        4.72
+Shanta      2087        8.92
+Bibhatsa     532        2.27
+Hasya        425        1.82
+
+Per-Kanda Dominant Rasa:
+rasa_1           dominant_rasa  dominant_pct  total_shlokas
+kanda                                                      
+Aranya Kanda             Veera          20.8           2439
+Ayodhya Kanda           Karuna          33.3           4262
+Bala Kanda               Veera          26.0           2217
+Kishkindha Kanda         Veera          30.3           2445
+Sundara Kanda            Veera          27.7           2772
+Uttara Kanda             Veera          25.5           3574
+Yuddha Kanda             Veera          39.0           5693
+
+── RIGVEDA ───────────────────────────────────────────
+           count  percentage
+rasa_1                      
+Veera        313       17.80
+Karuna       230       13.08
+Shringara    266       15.13
+Raudra       126        7.17
+Adbhuta      418       23.78
+Bhayanaka     48        2.73
+Shanta       213       12.12
+Bibhatsa      94        5.35
+Hasya         50        2.84
+
+Per-Mandala Dominant Rasa:
+rasa_1    dominant_rasa  dominant_pct  total_shlokas
+mandala                                             
+Mandala 1       Adbhuta          23.8           1758
+
+── COMPARISON ────────────────────────────────────────
+           Ramayana %  Rigveda %  Difference
+rasa_1                                      
+Veera           27.67      17.80        9.87
+Karuna          16.87      13.08        3.79
+Shringara       11.42      15.13       -3.71
+Raudra          12.82       7.17        5.65
+Adbhuta         13.50      23.78      -10.28
+Bhayanaka        4.72       2.73        1.99
+Shanta           8.92      12.12       -3.20
+Bibhatsa         2.27       5.35       -3.08
+Hasya            1.82       2.84       -1.02
+
+============================================================
+Files saved in navarasa_insights/

@@ -1,0 +1,20 @@
+IndicBERT — Fold 1
+Accuracy: 0.6668
+Weighted F1: 0.6776
+Macro F1: 0.5815
+
+              precision    recall  f1-score   support
+
+   Shringara       0.83      0.83      0.83       575
+       Hasya       0.18      0.37      0.24        63
+      Karuna       0.74      0.66      0.70       710
+      Raudra       0.68      0.53      0.60       707
+       Veera       0.79      0.71      0.75       764
+   Bhayanaka       0.20      0.37      0.26       131
+    Bibhatsa       0.42      0.64      0.51       110
+     Adbhuta       0.68      0.68      0.68       322
+      Shanta       0.53      0.88      0.66       111
+
+    accuracy                           0.67      3493
+   macro avg       0.56      0.63      0.58      3493
+weighted avg       0.70      0.67      0.68      3493

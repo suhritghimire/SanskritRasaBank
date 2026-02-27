@@ -1,0 +1,41 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Data (Git will only track specific files)
+*.xlsx
+*.csv
+!data/raw/FINAL_SECOND.xlsx
+!data/verified/MERGED_FINAL.xlsx
+!data/inference/*.xlsx
+
+# Models and Checkpoints
+models/*/checkpoints/
+results/checkpoints/
+results/logs/
+checkpoint-*/
+saved_models/
+*.bin
+*.pt
+*.pth
+*.pkl
+*.safetensors
+
+# Logs and secrets
+*.log
+.env
+secrets.json
+training_checkpoint.json

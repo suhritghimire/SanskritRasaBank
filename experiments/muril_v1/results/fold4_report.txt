@@ -1,0 +1,20 @@
+Fold 4 Results
+Accuracy: 0.7993
+Weighted F1: 0.7995
+Macro F1: 0.7458
+
+              precision    recall  f1-score   support
+
+   Shringara       0.87      0.88      0.88       576
+       Hasya       0.57      0.58      0.58        62
+      Karuna       0.84      0.82      0.83       711
+      Raudra       0.80      0.74      0.77       707
+       Veera       0.81      0.83      0.82       763
+   Bhayanaka       0.63      0.67      0.65       131
+    Bibhatsa       0.66      0.66      0.66       110
+     Adbhuta       0.80      0.78      0.79       322
+      Shanta       0.64      0.87      0.74       110
+
+    accuracy                           0.80      3492
+   macro avg       0.74      0.76      0.75      3492
+weighted avg       0.80      0.80      0.80      3492
